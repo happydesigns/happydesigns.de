@@ -61,7 +61,7 @@ p{margin:1em
 div.n{margin:0;padding:0
 !important}.diyw
 div.hr{border-bottom-style:dotted;border-bottom-width:1px;border-color:#ccc;height:1px}.diyw
-.diyweb{line-height:1.35;padding-bottom:30px;margin-bottom:-30px;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}.diyw
+.diyweb{line-height:1.35;backdrop-filter:blur(8px);-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}.diyw
 .diyweb{-webkit-text-size-adjust:auto;overflow:hidden}.diyw
 .diyweb{position:relative;overflow:hidden}.diyw .diyweb>div{overflow:hidden}.diyw .diyfeModGridStyleTeaser
 div.diyfeModGridElement{padding:0;overflow:hidden}.diyw
