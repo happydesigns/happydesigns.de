@@ -1,0 +1,27 @@
+{
+  "name": "www.happydesigns.de",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxt/content": "^1.14.0",
+    "@vue-hero-icons/solid": "^1.7.2",
+    "core-js": "^3.9.1",
+    "nuxt": "^2.15.3"
+  },
+  "devDependencies": {
+    "@nuxt/components": "^2.1.8",
+    "@nuxt/image": "^0.4.10",
+    "@nuxtjs/tailwindcss": "^4.1.2",
+    "autoprefixer": "^10.2.5",
+    "nuxt-vite": "^0.1.1",
+    "postcss": "^8.3.0",
+    "stylelint-config-recommended": "^5.0.0",
+    "tailwindcss": "^2.1.2"
+  }
+}
